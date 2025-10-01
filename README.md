@@ -25,9 +25,7 @@ Share solutions with classmates and anyone learning to code.
 ---
 ## 🛠️ Technologies Used
 
-Language(s): Python (mainly) – more may be added later.
-
-Tools: Git & GitHub for version control.
+Language(s): Python (mainly) – more **may** be added later.
 
 ---
 ## 📌 Notes
